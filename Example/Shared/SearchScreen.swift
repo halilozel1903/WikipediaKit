@@ -120,9 +120,11 @@ struct SearchHitRow: View {
 
     var body: some View {
         HStack(alignment: .top, spacing: 14) {
-            WikiRemoteImage(url: hit.thumbnail.map { WikimediaThumbnail.url($0.source, width: 250, originalWidth: nil) })
-                .frame(width: 64, height: 64)
-                .clipShape(RoundedRectangle(cornerRadius: 10, style: .continuous))
+            if let thumbnail = hit.thumbnail {
+                WikiRemoteImage(url: WikimediaThumbnail.url(thumbnail.source, width: 250, originalWidth: nil))
+                    .frame(width: 64, height: 64)
+                    .clipShape(RoundedRectangle(cornerRadius: 10, style: .continuous))
+            }
             VStack(alignment: .leading, spacing: 4) {
                 Text(hit.title)
                     .font(.headline)

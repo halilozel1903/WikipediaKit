@@ -220,7 +220,7 @@ struct MostReadSection: View {
                 title: "Most read",
                 subtitle: mostRead.day?.date.map { $0.formatted(Date.FormatStyle(date: .long, time: .omitted, timeZone: TimeZone(identifier: "UTC")!)) }
             )
-            LazyVGrid(columns: [GridItem(.adaptive(minimum: 300), spacing: 16, alignment: .top)], alignment: .leading, spacing: 12) {
+            LazyVGrid(columns: [GridItem(.adaptive(minimum: 420), spacing: 16, alignment: .top)], alignment: .leading, spacing: 12) {
                 ForEach(Array(mostRead.articles.prefix(10).enumerated()), id: \.element.id) { index, article in
                     NavigationLink(value: ArticleRoute(title: article.page.title, language: article.page.language ?? "en")) {
                         ArticleRow(page: article.page, rank: index + 1, detail: article.views.compactViews)

@@ -43,9 +43,12 @@ public struct ArticleRow: View {
                     .monospacedDigit()
                     .frame(minWidth: 26, alignment: .trailing)
             }
-            ArticleThumbnail(page: page, width: Int(thumbnailSize * 2))
-                .frame(width: thumbnailSize, height: thumbnailSize)
-                .clipShape(RoundedRectangle(cornerRadius: 8, style: .continuous))
+            // Pages without a lead image get no thumbnail rather than an empty tile.
+            if page.imageURL(width: Int(thumbnailSize * 2)) != nil {
+                ArticleThumbnail(page: page, width: Int(thumbnailSize * 2))
+                    .frame(width: thumbnailSize, height: thumbnailSize)
+                    .clipShape(RoundedRectangle(cornerRadius: 8, style: .continuous))
+            }
             VStack(alignment: .leading, spacing: 3) {
                 Text(page.displayTitle)
                     .font(.headline)
