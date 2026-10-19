@@ -1,0 +1,109 @@
+{
+  "tfa": {
+    "type": "standard",
+    "title": "Hubble_Space_Telescope",
+    "displaytitle": "Hubble Space Telescope",
+    "titles": { "canonical": "Hubble_Space_Telescope", "normalized": "Hubble Space Telescope", "display": "Hubble Space Telescope" },
+    "pageid": 14016,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/HST-SM4.jpeg/330px-HST-SM4.jpeg",
+      "width": 330,
+      "height": 220
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/3f/HST-SM4.jpeg",
+      "width": 3000,
+      "height": 2000
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "description": "NASA/ESA space telescope launched in 1990",
+    "extract": "The Hubble Space Telescope is a space telescope that was launched into low Earth orbit in 1990 and remains in operation.",
+    "content_urls": { "desktop": { "page": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope", "revisions": "", "edit": "" } }
+  },
+  "mostread": {
+    "date": "2026-09-30Z",
+    "articles": [
+      {
+        "views": 412345,
+        "rank": 4,
+        "view_history": [ { "date": "2026-09-29Z", "views": 298000 }, { "date": "2026-09-30Z", "views": 412345 } ],
+        "type": "standard",
+        "title": "Moon",
+        "titles": { "canonical": "Moon", "normalized": "Moon", "display": "Moon" },
+        "pageid": 19331,
+        "description": "Natural satellite of Earth",
+        "lang": "en"
+      },
+      {
+        "views": 1203456,
+        "rank": 3,
+        "view_history": [],
+        "type": "standard",
+        "title": "Neil_Armstrong",
+        "titles": { "canonical": "Neil_Armstrong", "normalized": "Neil Armstrong", "display": "Neil Armstrong" },
+        "pageid": 21247,
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Neil_Armstrong_pose.jpg/330px-Neil_Armstrong_pose.jpg",
+          "width": 330,
+          "height": 412
+        },
+        "description": "American astronaut (1930-2012)",
+        "lang": "en"
+      },
+      { "views": 99, "rank": 5 }
+    ]
+  },
+  "image": {
+    "title": "File:Full Moon Luc Viatour.jpg",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/640px-FullMoon2010.jpg",
+      "width": 640,
+      "height": 640
+    },
+    "image": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/FullMoon2010.jpg",
+      "width": 1500,
+      "height": 1500
+    },
+    "file_page": "https://commons.wikimedia.org/wiki/File:FullMoon2010.jpg",
+    "artist": {
+      "html": "<a href=\"//commons.wikimedia.org/wiki/User:Lviatour\" title=\"User:Lviatour\">Luc Viatour</a>",
+      "text": "Luc Viatour",
+      "name": "Luc Viatour",
+      "user_page": "https://commons.wikimedia.org/wiki/User:Lviatour"
+    },
+    "credit": { "html": "Own work", "text": "Own work" },
+    "license": { "type": "CC BY-SA 3.0", "code": "cc-by-sa-3.0", "url": "https://creativecommons.org/licenses/by-sa/3.0" },
+    "description": {
+      "html": "The full <a href=\"https://en.wikipedia.org/wiki/Moon\">Moon</a> seen from Earth &amp; photographed in 2010.",
+      "text": "The full Moon seen from Earth & photographed in 2010.",
+      "lang": "en"
+    },
+    "wb_entity_id": "M1",
+    "structured": { "captions": { "en": "The full Moon" } }
+  },
+  "onthisday": [
+    {
+      "text": "The People's Republic of China was proclaimed.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "People's_Republic_of_China",
+          "titles": { "canonical": "People's_Republic_of_China", "normalized": "People's Republic of China", "display": "People's Republic of China" },
+          "pageid": 5405
+        }
+      ],
+      "year": 1949
+    },
+    { "text": "Missing pages still decode.", "year": 1880 }
+  ],
+  "news": [
+    {
+      "story": "<!--Oct 1--> A <a rel=\"mw:WikiLink\" href=\"./Comet\">comet</a> passes Earth &amp; is seen worldwide.",
+      "links": [
+        { "type": "standard", "title": "Comet", "titles": { "canonical": "Comet", "normalized": "Comet", "display": "Comet" }, "pageid": 6115 }
+      ]
+    }
+  ]
+}

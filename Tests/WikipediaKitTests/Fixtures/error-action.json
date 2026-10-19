@@ -1,0 +1,8 @@
+{
+  "error": {
+    "code": "badvalue",
+    "info": "Unrecognized value for parameter \"list\": serch.",
+    "docref": "See https://en.wikipedia.org/w/api.php for API usage."
+  },
+  "servedby": "mw-api-ext.eqiad.main"
+}

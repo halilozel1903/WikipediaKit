@@ -1,0 +1,30 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [ { "fromencoded": false, "from": "moon landing", "to": "Moon landing" } ],
+    "redirects": [ { "from": "Moon landing", "to": "Moon landings" } ],
+    "pages": [
+      {
+        "pageid": 21580,
+        "ns": 0,
+        "title": "Moon landings",
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_original.jpg/330px-Aldrin_Apollo_11_original.jpg",
+          "width": 330,
+          "height": 330
+        },
+        "pageimage": "Aldrin_Apollo_11_original.jpg",
+        "description": "Arrival of a spacecraft on the surface of the Moon",
+        "descriptionsource": "local"
+      },
+      {
+        "pageid": 662,
+        "ns": 0,
+        "title": "Apollo 11",
+        "description": "First crewed Moon landing mission (1969)",
+        "descriptionsource": "local"
+      },
+      { "ns": 0, "title": "No such page here", "missing": true }
+    ]
+  }
+}

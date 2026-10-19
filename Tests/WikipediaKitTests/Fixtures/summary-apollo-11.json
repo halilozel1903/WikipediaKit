@@ -1,0 +1,46 @@
+{
+  "type": "standard",
+  "title": "Apollo 11",
+  "displaytitle": "<i>Apollo 11</i>",
+  "namespace": { "id": 0, "text": "" },
+  "wikibase_item": "Q43653",
+  "titles": {
+    "canonical": "Apollo_11",
+    "normalized": "Apollo 11",
+    "display": "<i>Apollo 11</i>"
+  },
+  "pageid": 662,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_original.jpg/330px-Aldrin_Apollo_11_original.jpg",
+    "width": 330,
+    "height": 330
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/98/Aldrin_Apollo_11_original.jpg",
+    "width": 2349,
+    "height": 2349
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1250000000",
+  "tid": "8a1d6f40-0000-11ef-0000-000000000000",
+  "timestamp": "2026-09-28T12:00:00Z",
+  "description": "First crewed Moon landing mission (1969)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Apollo_11",
+      "revisions": "https://en.wikipedia.org/wiki/Apollo_11?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Apollo_11?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Apollo_11"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Apollo_11",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Apollo_11",
+      "edit": "https://en.m.wikipedia.org/wiki/Apollo_11?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Apollo_11"
+    }
+  },
+  "extract": "Apollo 11 was a spaceflight conducted from July 16 to 24, 1969, by the United States and launched by NASA. It marked the first time that humans landed on the Moon.",
+  "extract_html": "<p><b>Apollo 11</b> was a spaceflight conducted from July 16 to 24, 1969, by the United States and launched by NASA. It marked the first time that humans landed on the Moon.</p>"
+}

@@ -1,0 +1,29 @@
+{
+  "batchcomplete": true,
+  "continue": { "gsroffset": 2, "continue": "gsroffset||" },
+  "query": {
+    "pages": [
+      {
+        "pageid": 21246,
+        "ns": 0,
+        "title": "Buzz Aldrin",
+        "index": 2,
+        "description": "American astronaut",
+        "extract": "Buzz Aldrin is an American former astronaut."
+      },
+      {
+        "pageid": 663,
+        "ns": 0,
+        "title": "Apollo 12",
+        "index": 1,
+        "thumbnail": {
+          "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Apollo_12.jpg/330px-Apollo_12.jpg",
+          "width": 330,
+          "height": 248
+        },
+        "description": "Second crewed Moon landing (1969)",
+        "extract": "Apollo 12 was the sixth crewed flight in the Apollo program."
+      }
+    ]
+  }
+}

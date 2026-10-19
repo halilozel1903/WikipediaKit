@@ -1,0 +1,24 @@
+{
+  "selected": [
+    {
+      "text": "Apollo 11: Neil Armstrong and Buzz Aldrin became the first people to land on the Moon.",
+      "pages": [
+        { "type": "standard", "title": "Apollo_11", "titles": { "canonical": "Apollo_11", "normalized": "Apollo 11", "display": "<i>Apollo 11</i>" }, "pageid": 662 }
+      ],
+      "year": 1969
+    }
+  ],
+  "births": [
+    { "text": "Petrarch, Italian poet (d. 1374)", "pages": [], "year": 1304 },
+    { "text": "Edmund Hillary, New Zealand mountaineer (d. 2008)", "pages": [], "year": 1919 }
+  ],
+  "deaths": [
+    { "text": "Bruce Lee, American-Hong Kong actor (b. 1940)", "pages": [], "year": 1973 }
+  ],
+  "events": [
+    { "text": "Ancient event", "pages": [], "year": -356 }
+  ],
+  "holidays": [
+    { "text": "International Chess Day", "pages": [] }
+  ]
+}
